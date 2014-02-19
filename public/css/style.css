@@ -1,0 +1,43 @@
+body {
+	padding-top: 80px;
+}
+
+.editor {
+	min-height: 500px;
+}
+
+#place-blocks {
+	
+}
+
+#place-blocks #place-blocks-regions {
+	
+}
+
+#place-blocks #place-blocks-regions .region {
+	border: solid 1px #999;
+	background: #fbfbfb;
+	padding: 5px;
+	margin-bottom: 5px;
+}
+
+#place-blocks #place-blocks-regions .region .block {
+	border: solid 1px #999;
+	background: #f9f9f9;
+	margin: 5px;		
+}
+
+#place-blocks #place-blocks-regions .region .block h4 {
+	font-size: 0.8em;
+}
+
+#place-blocks #place-blocks-blocks {
+	
+}
+
+#place-blocks #place-blocks-blocks .block {
+	border: solid 1px #999;	
+	background: #f9f9f9;
+	padding: 5px;
+	margin-bottom: 5px;
+}
